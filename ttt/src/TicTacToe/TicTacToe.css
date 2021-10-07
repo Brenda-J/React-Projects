@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(255, 255, 180);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.container button {
+    background-color: rgb(135, 255, 131);
+}
+
+.title {
+    font-size: 45px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 255);
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+
